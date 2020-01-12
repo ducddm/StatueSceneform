@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright 2018 Google LLC.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<resources>
+    <string name="app_name">Statue Sceneform</string>
+    <string name="test">Champa or Tsiompa (Cham: Campa; Vietnamese: Chăm Pa) was a collection of independent Cham polities that extended across the coast of what is today central and southern Vietnam from approximately the 2nd century AD before being absorbed and annexed by Vietnamese Emperor Minh Mạng in AD 1832.[1] The kingdom was known variously as nagara Campa (Sanskrit: नगरः चम्पः; Khmer: ចាម្ប៉ា) in the Chamic and Cambodian inscriptions, Chăm Pa in Vietnamese (Chiêm Thành in Sino-Vietnamese vocabulary) and 占城 (Zhànchéng) in Chinese records.
+
+The Chams of modern Vietnam and Cambodia are the remnants of this former kingdom. They speak Chamic languages, a subfamily of Malayo-Polynesian closely related to the Malayic and Bali–Sasak languages.
+
+Champa was preceded in the region by a kingdom called Lâm Ấp (Vietnamese), or Linyi (林邑, Lim Ip in Middle Chinese), that was in existence since AD 192; although the historical relationship between Linyi and Champa is not clear. Champa reached its apogee in the 9th and 10th centuries AD. Thereafter, it began a gradual decline under pressure from Đại Việt, the Vietnamese polity centered in the region of modern Hanoi. In 1832, the Vietnamese emperor Minh Mạng annexed the remaining Cham territories.
+
+Hinduism, adopted through conflicts and conquest of territory from neighboring Funan in the 4th century AD, shaped the art and culture of the Champa kingdom for centuries, as testified by the many Cham Hindu statues and red brick temples that dotted the landscape in Cham lands. Mỹ Sơn, a former religious center, and Hội An, one of Champa\'\ main port cities, are now World Heritage Sites. Today, many Cham people adhere to Islam, a conversion which began in the 10th century, with the Royals having fully adopted the faith by the 17th century; they are called Bani Cham (from Arabic: Bani). There are, however, Balamon Cham (from Sanskrit: Brahman) who still retain and preserve their Hindu faith, rituals, and festivals. The Balamon Cham are one of only two surviving non-Indic indigenous Hindu peoples in the world, with a culture dating back thousands of years. The other is the Balinese Hinduism of the Balinese of Indonesia.[1]
+    The artistic legacy of Champa consists primarily of sandstone sculptures - both sculpture in the round and relief sculpture - and brick buildings. Some metal statues and decorative items have also survived. Much of the remaining art expresses religious themes, and though some pieces would have been purely decorative, others would have served important functions in the religious life of the Chams, which synthesized elements of Hinduism (especially Saivism), Buddhism and indigenous cults.
+
+This artistic legacy has been decimated by neglect, war, and vandalism. Much of the damage has been done in the 20th century. Some French scholars such as Henri Parmentier and Jean Boisselier were able to take photographs, create drawings, and pen descriptions of works which have been destroyed in the meantime. Neglect continues to endanger the legacy of Champa to this day, especially the neglect of the inscribed stone steles, the source of much valuable information on the history of Champa. The participants in the Vietnam War wrought their share of devastation, wiping out for example the vestiges of the Buddhist monastery at Dong Duong (Quảng Nam).[1] Willful vandalism and pilfering are an ongoing concern.
+
+The largest collection of Cham art is on exhibit at the Museum of Cham Sculpture in Da Nang. Substantial collections are housed in the Guimet Museum in Paris, the Museum of Vietnamese History in Saigon, and the Museum of History in Hanoi. Smaller collections may be found in the Museum of Fine Arts in Saigon and the Museum of Fine Arts in Hanoi.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome0">Welcome to the AR application!</string>
+    <string name="details">Details</string>
+    <string name="description">Description</string>
+    <string name="welcome1">Here is the introduction of how to use this App...</string>
+    <string name="Step1">Step 1</string>
+    <string name="step1">Click on the button of the statue you want</string>
+    <string name="Step2">Step 2</string>
+    <string name="step2">Move around one plane until you find the dots ...</string>
+    <string name="click">Click on the dots ... and you find the statue</string>
+    <string name="button1">My Son Statue</string>
+    <string name="button2">Mamooth</string>
+    <string name="button3">Pieta</string>
+    <string name="button4">Vishnu</string>
+    <string name="button5">Dorandar 1</string>
+    <string name="button6">Gudea</string>
+    <string name="button7">Renault AG 1906</string>
+    <string name="text7">Renault’s Type AG, the very first Parisian taxi, would go down in history for its role in carrying troops to the Marne during the First World War.
+
+The Type AG was designed with simplicity and robustness uppermost in mind, two qualities that would prove instrumental in bringing Renault the very first contract for taxi service in Paris. In 1905, there were 250 Type AG taxis on the roads of the French capital, rising to 1000 by 1906 and 1500 two years later. Taxi service provided valuable exposure for the Renault name and even brought recognition beyond France in 1907, Renault sold 1100 units in London.
+
+But the Type AG is best known for its historical role in carrying troops to the front in 1914, to stem the invading Germany army’s march on Paris. Paris taxis were requisitioned, and 1300 of them would carry 6000 soldiers to win the Battle of the Marne. Thereafter the Type AG would be known as the Taxi de la Marne. Renault’s involvement in the French war effort was intense, including developments such as the first light assault vehicle, the FT17.
+
+</string>
+    <string name="text6">Approximately twenty-seven statues of Gudea, a ruler (ensi) of the state of Lagash have been found in southern Mesopotamia. Gudea ruled between c. 2144–2124 BC and the statues demonstrate a very sophisticated level of craftsmanship for the time. The known statues have been categorised \'A-AB\' by archaeologists. Many statues are headless, and there are also detached heads. Gudea is named in the dedicatory inscription carved on most statues, but in somes cases the identity of the ruler portrayed is uncertain.
+
+ Statues A-K were found during Ernest de Sarzec\'s excavations in the court of the palace of Adad-nadin-ahhe in Telloh (ancient Girsu). Statues M-Q come from clandestine excavations in Telloh in 1924; the rest come from the art trade, with unknown provenances and sometimes of doubtful authenticity. Figures L and R do not represent Gudea with reasonable certainty.
+It seems that the early statues are small and made of more local stones (limestone, steatite and redstoneer); later, when wide-ranging trade-connections had been established, the more costly exotic diorite was used. Unlike the local stone, diorite is extremely hard, and so difficult to carve. Diorite had already been used by old Sumerian rulers (Statue of Entemena). According to the inscriptions, the diorite (or gabbro, na4esi) came from Magan. The remnants of a very large diorite statue in the British Museum may be a representation of Gudea, but this cannot be determined with certainty. What remains of the statue is 1.5m high (and weighs over 1250 kg), meaning that if it was fully reconstructed the statue would be well over 3 metres high and the largest yet discovered sculpture of the ruler.[1]
+</string>
+    <string name="text5">The Dorand AR.1 was a World War One French two-seat observation biplane aircraft used by the French Air Force, the American Expeditionary Force and, in small numbers, by Serbian Aviation.
+
+Designed by Captain Georges Lepère of the STAé to replace the obsolescent Farman F.40 pusher aircraft, Dorand AR-series were two-seater reconnaissance biplanes that were named after the STAé director, Lt. Col. Dorand. They were characterized by backward-staggered two-bay wings and angular all-moving tail surfaces. The pilot sat beneath the leading edge of the upper wing, with the observer\'s cockpit being under the trailing edge, and there were cut-outs in both wings to improve the latter\'s field of view. Rather unusually for a single-engine tractor biplane of the era, the lower wing was not directly attached to the fuselage, instead being somewhat below it, supported by struts.
+
+
+Production of these aircraft began in a state-owned French Army Aircraft Establishment (or S.T.Aé.) factory at Chalais-Meudon, near Paris, after flight testing had been completed in the autumn 1916.
+
+The first of the thirteen squadrons which flew Dorands on the Western Front received their aircraft in the spring 1917. Five other French squadrons used the type on the Italian Front. These aircraft were withdrawn from the combat units in early 1918.
+
+In 1917 the American Expeditionary Force ordered the Renault-engined varieties of the Dorand, the first of 22 AR.1s being delivered in December 1917 and the first of 120 AR.2s in following February. The Americans operated these types on the Western Front for the first half 1918, until replacing them with the Salmson 2. After being retired from fighting duties, the surviving examples were used as trainers.
+
+
+Dorand AR.2\'s of the first Serbian squadron
+A small number of Dorand AR.1s were also supplied to Kingdom of Serbia, which operated these aircraft in four squadrons from April 1918 onwards.
+
+While the Dorand AR-types didn\'t have a particularly distinguished career in either French or American service, having a rather mediocre performance for a late-war daytime reconnaissance aircraft and suffering from having low priority for engine supplies, it is a testimony to the general soundness of the design that after the war, many AR.1s and AR.2s appeared in the French civil register, being used as 2/3-passenger transports by companies like Compagnie Aérienne Française and Réseau Aérien Transafricain. Private users found the aircraft useful for training and joy-flights as well.
+
+General characteristics
+
+Crew: 2 (pilot and observer)
+Length: 8.225 m (27 ft 0 in)
+Wingspan: 13.3 m (43 ft 8 in)
+Wing area: 50.36 m2 (542.1 sq ft)
+Empty weight: 890 kg (1,962 lb)
+Gross weight: 1,330 kg (2,932 lb)
+Fuel capacity: 170 l (37 imp gal)
+Powerplant: 1 × Renault 8Gdy V-8 water-cooled piston engine, 150 kW (200 hp)
+Propellers: 2-bladed wooden fixed pitch propeller
+Performance
+
+Maximum speed: 148 km/h (92 mph, 80 kn) at 2,000 m (6,600 ft)
+Endurance: 3 hours
+Service ceiling: 5,500 m (18,000 ft)
+Wing loading: 26.4 kg/m2 (5.4 lb/sq ft)
+Power/mass: 0.143 kW/kg (0.087 hp/lb)
+Armament
+Guns:
+1 × fixed forward-firing 7.7 mm (.303 in) Vickers machine gun for the pilot
+1 or 2 × 7.7 mm (.303 in) Lewis gun(s) on a movable mounting for the observer</string>
+    <string name="text4">This extremely well preserved work represents the god Vishnu astride his traditional mount,Garuda.
+The four-armed deity is holding his usual attributes, only two of which -the conch and the discus- survive today.
+The head is crowned with an octagonal mitre and a thick moustache lines the face.
+The earlobes are pierced, which allowed precious ornamentation to be added.
+The pronounced ethnic facial features are typical of Cham works. Wearing a short sampot, the god is mounted on a grotesque creature: the mythical Garuda with a human body and the head of a bird of prey. One knee on the ground, this hybrid being is clasping its master’s legs in its hands. The massive canon and rounded forms of this statue are reminiscent of sculptures from Northern Indian provincial workshops.
+
+The piece displays traces of later polychromy -a reminder that many such images were formerly painted- and most likely comes from the Marble Mountains, in the Ngu Hanh So’n district in Da Lang province. Champa styles bear the names of specific sites or edifices, notably My So’n, the most representative. This work can be categorized as a prolongation of the E1 style (c. 650-730), the oldest recorded at My So’n, the holy city of the Champa.</string>
+    <string name="text3">The Pietà (Italian: [pjeˈta]; English: "The Pity"; 1498–1499) is a work of Renaissance sculpture by Michelangelo Buonarroti, housed in St. Peter\s\ Basilica, Vatican City. It is the first of a number of works of the same theme by the artist. The statue was commissioned for the French Cardinal Jean de Bilhères, who was a representative in Rome. The sculpture, in Carrara marble, was made for the cardinal\s\ funeral monument, but was moved to its current location, the first chapel on the right as one enters the basilica, in the 18th century.[1] It is the only piece Michelangelo ever signed.
+
+This famous work of art depicts the body of Jesus on the lap of his mother Mary after the Crucifixion. The theme is of Northern origin. Michelangelo\s\ interpretation of the Pietà is unprecedented in Italian sculpture.[citation needed] It is an important work as it balances the Renaissance ideals of classical beauty with naturalism.
+
+In 2019, a small terracotta figure identified as a model for the final sculpture was displayed in Paris.
+
+The Madonna is represented as being very young for the mother of an approximately 33-year-old son, which is not uncommon in depictions of her at the time of the Passion of Christ. Various explanations have been suggested for this. One is that her youth symbolizes her incorruptible purity, as Michelangelo himself said to his biographer and fellow sculptor Ascanio Condivi.
+
+Do you not know that chaste women stay fresh much more than those who are not chaste? How much more in the case of the Virgin, who had never experienced the least lascivious desire that might change her body?[5]
+
+Another explanation suggests that Michelangelo\s\ treatment of the subject was influenced by his passion for Dante\s\ Divina Commedia: so well-acquainted was he with the work that when he went to Bologna, he paid for hospitality by reciting verses from it. In Paradiso (cantica 33 of the poem), Saint Bernard, in a prayer for the Virgin Mary, says "Vergine madre, figlia del tuo figlio" (Virgin mother, daughter of your son). This is said because, since Christ is one of the three figures of Trinity, Mary would be his daughter, but it is also she who bore him.
+
+Following completion, the Pietà\s\ first home was the Chapel of Santa Petronilla, a Roman mausoleum near the south transept of St. Peter\s\, which the Cardinal chose as his funerary chapel. The chapel was later demolished by Bramante during his rebuilding of the basilica. According to Giorgio Vasari, shortly after the installation of his Pietà, Michelangelo overheard someone remark (or asked visitors about the sculptor) that it was the work of another sculptor, Cristoforo Solari, whereupon Michelangelo signed the sculpture.[6] Michelangelo carved MICHAELA[N]GELUS BONAROTUS FLORENTIN[US] FACIEBA[T] (Michelangelo Buonarroti, Florentine, made this) on the sash running across Mary\'s chest. The signature echoes one used by the ancient Greek artists, Apelles and Polykleitos. It was the only work he ever signed. Vasari also reports the anecdote that Michelangelo later regretted his outburst of pride and swore never to sign another work of his hands.[7][8]
+
+In 1964, the Pietà was lent by the Vatican to the 1964–65 New York World\'s Fair to be installed in the Vatican pavilion. Francis Cardinal Spellman, who had requested the statue from Pope John XXIII, appointed Edward M. Kinney, Director of Purchasing and Shipping of Catholic Relief Services - USCC, to head up the Vatican Transport Teams.[9] People stood in line for hours to catch a glimpse from a conveyor belt moving past the sculpture. It was returned to the Vatican after the fair.
+
+Damage
+
+A detail view of the statue with damaged hand, nose and eye, May 1972.
+Subsequent to its carving the Pietà sustained much damage. Four fingers on Mary\'s left hand, broken during a move, were restored in 1736 by Giuseppe Lirioni, and scholars are divided as to whether the restorer took liberties to make the gesture more "rhetorical." The most substantial damage occurred on 21 May 1972, (Pentecost Sunday) when a mentally disturbed geologist, the Hungarian-born Australian Laszlo Toth walked into the chapel and attacked the sculpture with a geologist\'s hammer while shouting "I am Jesus Christ; I have risen from the dead!"[11] With fifteen blows he removed Mary\'s arm at the elbow, knocked off a chunk of her nose, and chipped one of her eyelids. Bob Cassilly, an American sculptor and artist from St. Louis, Missouri, was one of the first people to remove Toth from the Pietà. "I leaped up and grabbed the guy by the beard. We both fell into the crowd of screaming Italians. It was something of a scene." [12]Onlookers took many of the pieces of marble that flew off. Later, some pieces were returned, but many were not, including Mary\'s nose, which had to be reconstructed from a block cut out of her back.
+
+After the attack, the work was painstakingly restored and returned to its place in St. Peter\'s, just to the right of the entrance, between the Holy door and the altar of Saint Sebastian, and is now protected by a bulletproof acrylic glass panel.</string>
+    <string name="text2">A mammoth is any species of the extinct genus Mammuthus, one of the many genera that make up the order of trunked mammals called proboscideans. The various species of mammoth were commonly equipped with long, curved tusks and, in northern species, a covering of long hair. They lived from the Pliocene epoch (from around 5 million years ago) into the Holocene at about 4,000 years ago, and various species existed in Africa, Europe, Asia, and North America. They were members of the family Elephantidae, which also contains the two genera of modern elephants and their ancestors.
+
+The oldest representative of Mammuthus, the South African mammoth (M. subplanifrons), appeared around 5 million years ago during the early Pliocene in what is now southern and eastern Africa. Descendant species of these mammoths moved north and continued to propagate into numerous subsequent species, eventually covering most of Eurasia before extending into the Americas at least 600,000 years ago. The last species to emerge, the woolly mammoth (M. primigenius), developed about 400,000 years ago in East Asia, with some surviving on Russia \s\ Wrangel Island in the Arctic Ocean until as recently as roughly 3,700 to 4,000 years ago, still extant during the construction of the Great Pyramid of ancient Egypt.
+
+The earliest known proboscideans, the clade that contains the elephants, existed about 55 million years ago around the Tethys Sea area. The closest relatives of the Proboscidea are the sirenians and the hyraxes. The family Elephantidae is known to have existed six million years ago in Africa, and includes the living elephants and the mammoths. Among many now extinct clades, the mastodon is only a distant relative of the mammoths, and part of the separate Mammutidae family, which diverged 25 million years before the mammoths evolved.
+
+Since many remains of each species of mammoth are known from several localities, it is possible to reconstruct the evolutionary history of the genus through morphological studies. Mammoth species can be identified from the number of enamel ridges on their molars; the primitive species had few ridges, and the amount increased gradually as new species evolved and replaced the former ones. At the same time, the crowns of the teeth became longer, and the skulls become higher from top to bottom and shorter from the back to the front over time to accommodate this.
+
+The first known members of the genus Mammuthus are the African species Mammuthus subplanifrons from the Pliocene and Mammuthus africanavus from the Pleistocene. The former is thought to be the ancestor of later forms. Mammoths entered Europe around 3 million years ago; the earliest known type has been named M. rumanus, which spread across Europe and China. Only its molars are known, which show it had 8–10 enamel ridges. A population evolved 12–14 ridges and split off from and replaced the earlier type, becoming M. meridionalis. In turn, this species was replaced by the steppe mammoth, M. trogontherii, with 18–20 ridges, which evolved in East Asia ca. 1 million years ago. Mammoths derived from M. trogontherii evolved molars with 26 ridges 200,000 years ago in Siberia, and became the woolly mammoth, M. primigenius.[3] The Columbian mammoth, M. columbi, evolved from a population of M. trogontherii that had entered North America. A 2011 genetic study showed that two examined specimens of the Columbian mammoth were grouped within a subclade of woolly mammoths. This suggests that the two populations interbred and produced fertile offspring. It also suggested that a North American form known as "M. jeffersonii" may be a hybrid between the two species.[4]
+
+By the late Pleistocene, mammoths in continental Eurasia had undergone a major transformation, including a shortening and heightening of the cranium and mandible, increase in molar hypsodonty index, increase in plate number, and thinning of dental enamel. Due to this change in physical appearance, it became customary to group European mammoths separately into distinguishable clusters:
+
+Early Pleistocene – Mammuthus meridionalis
+Middle Pleistocene – Mammuthus trogontherii
+Late Pleistocene – Mammuthus primigenius
+There is speculation as to what caused this variation within the three chronospecies. Variations in environment, climate change, and migration surely played roles in the evolutionary process of the mammoths. Take M. primigenius for example: Woolly mammoths lived in opened grassland biomes. The cool steppe-tundra of the Northern Hemisphere was the ideal place for mammoths to thrive because of the resources it supplied. With occasional warmings during the ice age, climate would change the landscape, and resources available to the mammoths altered accordingly.
+
+</string>
+</resources>
