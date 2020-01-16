@@ -10,12 +10,14 @@
         android:layout_width="match_parent"
         android:layout_height="150dp"
         android:text="@string/welcome0"
+        android:textColor="#FFFFFF"
         android:textAlignment="center"
         android:textSize="50sp" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="150dp"
+        android:textColor="#FFFFFF"
         android:text="@string/welcome1"
         android:textAlignment="center"
         android:textSize="30sp" />

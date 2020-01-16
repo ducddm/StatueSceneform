@@ -8,12 +8,14 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:text="@string/Step2"
+        android:textColor="#FFFFFF"
         android:textSize="50sp"
         android:textAlignment="center" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="100dp"
+        android:textColor="#FFFFFF"
         android:text="@string/step2"
         android:textAlignment="center"
         android:textSize="30sp" />
@@ -41,6 +43,7 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:textAlignment="center"
+        android:textColor="#FFFFFF"
         android:text="@string/click"
         android:textSize="30sp" />
 

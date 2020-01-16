@@ -32,6 +32,8 @@ import com.google.ar.core.Anchor;
 import com.google.ar.core.HitResult;
 import com.google.ar.core.Plane;
 import com.google.ar.sceneform.AnchorNode;
+import com.google.ar.sceneform.HitTestResult;
+import com.google.ar.sceneform.Node;
 import com.google.ar.sceneform.math.Vector3;
 import com.google.ar.sceneform.rendering.ModelRenderable;
 import com.google.ar.sceneform.rendering.ViewRenderable;
@@ -101,17 +103,27 @@ public class HelloSceneformActivity extends AppCompatActivity {
           andy.setRenderable(andyRenderable);
           andy.select();
 
-          Button button = findViewById(R.id.textButton);
-          button.setVisibility(View.VISIBLE);
-          button.setOnClickListener(view -> {
-              button.setVisibility(View.GONE);
-              TransformableNode text = new TransformableNode(arFragment.getTransformationSystem());
-              text.setParent(andy);
-              text.setLocalPosition(new Vector3(0.65f,0.65f,0.65f));
-              text.setRenderable(testViewRenderable);
-              text.select();
-          });
-
+//          Button button = findViewById(R.id.textButton);
+//          button.setVisibility(View.VISIBLE);
+//          button.setOnClickListener(view -> {
+//              button.setVisibility(View.GONE);
+//              TransformableNode text = new TransformableNode(arFragment.getTransformationSystem());
+//              text.setParent(andy);
+//              text.setLocalPosition(new Vector3(0.65f,0.65f,0.65f));
+//              text.setRenderable(testViewRenderable);
+//              text.select();
+//          });
+            andy.setOnTapListener(new Node.OnTapListener() {
+                @Override
+                public void onTap(HitTestResult hitTestResult, MotionEvent motionEvent) {
+                    TransformableNode text = new TransformableNode(arFragment.getTransformationSystem());
+                    text.setParent(andy);
+                    text.setLocalPosition(new Vector3(0.65f,0.65f,0.65f));
+                    text.setRenderable(testViewRenderable);
+                    text.select();
+                    andy.setOnTapListener(null);
+                }
+            });
 
 
 
