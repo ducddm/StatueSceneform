@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ducddm/StatueSceneform/issues"
   },
-  "homepage": "https://github.com/ducddm/StatueSceneform#readme"
+  "homepage": "https://github.com/ducddm/StatueSceneform#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
