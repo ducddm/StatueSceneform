@@ -3,7 +3,7 @@ function Dog(name){
     this.name = name;
     this.stomach = [];
 }
-function eat(){
+function eat(food){
     Dog.food = cat;
 }
 
